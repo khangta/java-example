@@ -6,7 +6,7 @@
 
     <groupId>io.github.khangta</groupId>
     <artifactId>example</artifactId>
-    <version>1.2.3</version>
+    <version>1.2.5</version>
     <name>Example</name>
     <description>Example library</description>
     <url>https://github.com/khangta/java-example</url>
@@ -21,7 +21,6 @@
         <developer>
             <name>KhangTA</name>
             <email>truongankhang@gmail.com</email>
-            <organization>Dexecutor</organization>
             <organizationUrl>https://github.com/khangta</organizationUrl>
             <timezone>UTC+07:00</timezone>
         </developer>
@@ -35,8 +34,8 @@
     </licenses>
 
     <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <build>
         <plugins>
